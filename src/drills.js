@@ -51,4 +51,4 @@ function totalCost() {
     })
 }
 
-addedAfter(30);
+addedAfter(2);
